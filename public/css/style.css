@@ -1,0 +1,42 @@
+html {
+    min-height: 100vh; /* make sure it is at least as tall as the viewport */
+    position: relative;
+}
+
+body {
+    margin: 0 auto;
+    height: 100%;
+    width: 100%;
+    font-family: 'Open Sans', 'Helvetica', Arial, sans-serif;
+    color:#666;
+}
+
+a{
+    color:#666;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+img{
+    max-height: 150px;
+    max-width: 150px;
+}
+
+.container {
+    margin: 0 auto;
+    width: 90%;
+}
+
+footer {
+    margin: 0 auto;
+    width:100%;
+    color: #666;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    font-size: 9pt;
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+
+
